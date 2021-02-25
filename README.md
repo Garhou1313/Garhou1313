@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lijiahao1313@163.com
 - 😄 Pronouns: Garhou
 - ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
-
+- 💖 Blog: http://47.115.10.29/
+-----------------------------------------
 
 ![github status](https://github-readme-stats.vercel.app/api?username=Garhou1313&hide=[%22issues&22]&show_icons=true)
 
@@ -19,6 +20,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+-----------------------------------------
 
 ### Technology I Know 💻:
 
@@ -31,6 +33,8 @@ No Activity tracked this Week
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-d1d1d1?style=for-the-badge&logo=Visual-Studio-Code&labelColor=007ACC&logoColor=white)](https://code.visualstudio.com/) [![Windows Powershell](https://img.shields.io/badge/Windows_Powershell-Command_Line_Interface-d1d1d1?style=for-the-badge&logo=Powershell&labelColor=5391FE&logoColor=white)](https://docs.microsoft.com/en-us/powershell/) [![Git](https://img.shields.io/badge/Git-Version%20Control-d1d1d1?style=for-the-badge&logo=Git&labelColor=F05032&logoColor=white)](https://git-scm.com/) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes-d1d1d1?style=for-the-badge&logo=Figma&labelColor=F24E1E&logoColor=white)](https://www.figma.com/) [![Pexels](https://img.shields.io/badge/Pexels-Free%20HD%20Images-d1d1d1?style=for-the-badge&logo=Pexels&labelColor=05A081&logoColor=white)](https://www.pexels.com/) [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-Icons-d1d1d1?style=for-the-badge&logo=Font-Awesome&labelColor=339AF0&logoColor=white)](https://fontawesome.com/)
 
+-----------------------------------------
+
 ### Find Me Here 🧐:
 
 [![Website](https://img.shields.io/badge/Website-Garhou-d1d1d1?style=for-the-badge&labelColor=blueviolet)](http://47.115.10.29/) 
@@ -40,6 +44,8 @@ No Activity tracked this Week
 ### My Stats So Far 📈:
 
 [![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)   
+
+-----------------------------------------
 
 > ⚠️ **Disclaimer:** Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.
 
