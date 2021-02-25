@@ -1,4 +1,4 @@
-### Hi everyong, I'm [Garhou](https://github.com/Garhou1313/) 👋 
+### Hi everyone, I'm [Garhou](https://github.com/Garhou1313/), welcome to my Github👋 
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you wanna know
 - 📫 How to reach me: lijiahao1313@163.com
 - 😄 Pronouns: Garhou
-- ⚡ Fun fact: Cat, MilkTea, Music, Travel..
+- ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
 
 
 ![github status](https://github-readme-stats.vercel.app/api?username=Garhou1313&hide=[%22issues&22]&show_icons=true)
@@ -22,7 +22,7 @@ No Activity tracked this Week
 
 ### Languages I Know 💻:
 
-![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-Expert-d1d1d1?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=Bootstrap&labelColor=7952B3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=jQuery&labelColor=0769AD&logoColor=white) ![React](https://img.shields.io/badge/React-Expert-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-Expert-d1d1d1?style=for-the-badge&logo=Redux&labelColor=764ABC&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-Expert-d1d1d1?style=for-the-badge&logo=JSON&labelColor=000000&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-Expert-d1d1d1?style=for-the-badge&logo=D3.js&labelColor=F9A03C&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![TypeScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![React](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) ![Vue](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) 
 
 -----------------------------------------
 
