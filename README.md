@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Garhou
 - ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
 - 💖 Blog: http://47.115.10.29/
------------------------------------------
 
-![github status](https://github-readme-stats.vercel.app/api?username=Garhou1313&hide=[%22issues&22]&show_icons=true)
+-----------------------------------------
 
 <!--START_SECTION:waka-->
 ```text
@@ -43,7 +42,7 @@ No Activity tracked this Week
 
 ### My Stats So Far 📈:
 
-[![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)   
+[![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garhou1313&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)   
 
 -----------------------------------------
 
