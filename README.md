@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 ![github status](https://github-readme-stats.vercel.app/api?username=Garhou1313&hide=[%22issues&22]&show_icons=true)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
