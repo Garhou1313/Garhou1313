@@ -20,9 +20,10 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-### Languages I Know 💻:
+### Technology I Know 💻:
 
-![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-d1d1d1?style=for-the-badge&logo=TypeScript&labelColor=3178C6&logoColor=white) ![React](https://img.shields.io/badge/React-Basic-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-Intermediate-d1d1d1?style=for-the-badge&logo=Vue&labelColor=4FC08D&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-d1d1d1?style=for-the-badge&logo=TypeScript&labelColor=3178C6&logoColor=white) ![React](https://img.shields.io/badge/React-Basic-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-Intermediate-d1d1d1?style=for-the-badge&logo=Vue&labelColor=4FC08D&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-Basic-d1d1d1?style=for-the-badge&logo=MongoDB&labelColor=47A248&logoColor=white) ![C++](https://img.shields.io/badge/C++-Intermediate-d1d1d1?style=for-the-badge&logo=C++&labelColor=00599C&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-Intermediate-d1d1d1?style=for-the-badge&logo=Webpack&labelColor=8DD6F9&logoColor=white) 
+
 
 -----------------------------------------
 
@@ -32,7 +33,7 @@ No Activity tracked this Week
 
 ### Find Me Here 🧐:
 
-[![Website](https://img.shields.io/badge/Website-paulsonjpaul.github.io-d1d1d1?style=for-the-badge&labelColor=blueviolet)](https://www.paulsonjpaul.github.io) [![CodePen](https://img.shields.io/badge/CodePen-paulsonjpaul-d1d1d1?style=for-the-badge&logo=CodePen&labelColor=black&logoColor=white)](https://codepen.io/paulsonjpaul) [![CodingGame](https://img.shields.io/badge/CodinGame-paulsonjpaul-d1d1d1?style=for-the-badge&labelColor=F2BB13)](https://www.codingame.com/profile/b4860a07f818f68c3ba67c29aa8b175e1594014) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-paulsonjpaul-d1d1d1?style=for-the-badge&logo=freeCodeCamp&labelColor=0A0A23&logoColor=white)](https://www.freecodecamp.org/paulsonjpaul) [![repl.it](https://img.shields.io/badge/repl.it-paulsonjpaul-d1d1d1?style=for-the-badge&logo=repl.it&labelColor=667881&logoColor=white)](https://repl.it/@paulsonjpaul)
+[![Website](https://img.shields.io/badge/Website-Garhou-d1d1d1?style=for-the-badge&labelColor=blueviolet)](http://47.115.10.29/) 
 
 -----------------------------------------
 
@@ -42,7 +43,7 @@ No Activity tracked this Week
 
 > ⚠️ **Disclaimer:** Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsonjpaul&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garhou1313&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 > 💖 **Credits:**
 > - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics 
