@@ -1,6 +1,6 @@
-### Hi everyone, I'm [Garhou](https://github.com/Garhou1313/), welcome to my Github👋 
+## Hi everyone, I'm [Garhou](https://github.com/Garhou1313/), welcome to my Github👋 
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started 💡:
 
 - 🔭 I haven't found a job yet
 - 🌱 I’m currently learning TypeScript and React, soon after i wanna learn something about server
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 💖 Blog: http://47.115.10.29/
 
 -----------------------------------------
+
+### Recent activities ✨：
 
 <!--START_SECTION:waka-->
 ```text
@@ -26,7 +28,6 @@ JSON         18 mins         ██░░░░░░░░░░░░░░░
 ### Technology I Know 💻:
 
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-d1d1d1?style=for-the-badge&logo=TypeScript&labelColor=3178C6&logoColor=white) ![React](https://img.shields.io/badge/React-Basic-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-Intermediate-d1d1d1?style=for-the-badge&logo=Vue&labelColor=4FC08D&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-Basic-d1d1d1?style=for-the-badge&logo=MongoDB&labelColor=47A248&logoColor=white) ![C++](https://img.shields.io/badge/C++-Intermediate-d1d1d1?style=for-the-badge&logo=C++&labelColor=00599C&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-Intermediate-d1d1d1?style=for-the-badge&logo=Webpack&labelColor=8DD6F9&logoColor=white) 
-
 
 -----------------------------------------
 
@@ -48,11 +49,8 @@ JSON         18 mins         ██░░░░░░░░░░░░░░░
 
 -----------------------------------------
 
-> ⚠️ **Disclaimer:** Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.
+### Languages 🔥：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garhou1313&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-> 💖 **Credits:**
-> - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics 
-> - [ManyPixels](https://www.manypixels.co/gallery) for providing royalty-free illustrations
-> - [Shields.io](https://shields.io/) for the badges
+> ⚠️ **Disclaimer:** Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.
