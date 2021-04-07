@@ -2,14 +2,14 @@
 
 ### Here are some ideas to get you started 💡:
 
-- 🔭 I haven't found a job yet
-- 🌱 I’m currently learning TypeScript and React, soon after i wanna learn something about server
+- 🔭 Deep-Loving Science and Technology Ltd.
+- 🌱 I’m currently learning TypeScript and React, soon after I want to learn something about Python
 - 🤔 I’m looking for help with React and TypeScript
-- 💬 Ask me about anything you wanna know
+- 💬 Ask me about anything you want to know
 - 📫 How to reach me: lijiahao1313@163.com
 - 😄 Pronouns: Garhou
 - ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
-- 💖 Blog: http://47.115.10.29/
+- 💖 Blog: 
 
 -----------------------------------------
 
@@ -29,7 +29,7 @@ Bash         16 mins         █▒░░░░░░░░░░░░░░░
 
 ### Technology I Know 💻:
 
-![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-d1d1d1?style=for-the-badge&logo=TypeScript&labelColor=3178C6&logoColor=white) ![React](https://img.shields.io/badge/React-Basic-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-Intermediate-d1d1d1?style=for-the-badge&logo=Vue&labelColor=4FC08D&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-Basic-d1d1d1?style=for-the-badge&logo=MongoDB&labelColor=47A248&logoColor=white) ![C++](https://img.shields.io/badge/C++-Intermediate-d1d1d1?style=for-the-badge&logo=C++&labelColor=00599C&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-Intermediate-d1d1d1?style=for-the-badge&logo=Webpack&labelColor=8DD6F9&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-d1d1d1?style=for-the-badge&logo=TypeScript&labelColor=3178C6&logoColor=white) ![React](https://img.shields.io/badge/React-InterMEDIATE-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-Intermediate-d1d1d1?style=for-the-badge&logo=Vue&labelColor=4FC08D&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-INTERMIDIATE-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-INTERMIDIATE-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-Basic-d1d1d1?style=for-the-badge&logo=MongoDB&labelColor=47A248&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-Intermediate-d1d1d1?style=for-the-badge&logo=Webpack&labelColor=8DD6F9&logoColor=white) 
 
 -----------------------------------------
 
