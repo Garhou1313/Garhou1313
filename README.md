@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with React and TypeScript
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: lijiahao1313@163.com
-- 😄 Pronouns: Garhou
+
 - ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
-- 💖 Blog: 
+- 💖 Blog: https://garhou.gitee.io/blog/
 
 -----------------------------------------
 
@@ -41,7 +41,7 @@ Bash         16 mins         █▒░░░░░░░░░░░░░░░
 
 ### Find Me Here 🧐:
 
-[![Website](https://img.shields.io/badge/Website-Garhou-d1d1d1?style=for-the-badge&labelColor=blueviolet)](http://47.115.10.29/) 
+[![Website](https://img.shields.io/badge/Website-Garhou-d1d1d1?style=for-the-badge&labelColor=blueviolet)](https://garhou.gitee.io/blog/) 
 
 -----------------------------------------
 
