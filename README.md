@@ -2,13 +2,12 @@
 
 ### Here are some ideas to get you started 💡:
 
-- 🔭 Deep-Loving Science and Technology Ltd.
-- 🌱 I’m currently learning TypeScript and React, soon after I want to learn something about Python
-- 🤔 I’m looking for help with React and TypeScript
+- 🌱 I’m currently learning machine learning
+- 🤔 I’m looking for help with AI and machine learning
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: lijiahao1313@163.com
 
-- ⚡ Fun fact: Cat, MilkTea, Music, Travel, English, Japanese..
+- ⚡ Fun fact: Cat, MilkTea, Music, Travel..
 - 💖 Blog: https://garhou.gitee.io/blog/
 
 -----------------------------------------
