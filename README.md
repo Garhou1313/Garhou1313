@@ -2,14 +2,14 @@
 
 ### Here are some ideas to get you started 💡:
 
-- 🌱 I’m currently learning machine learning
-- 🤔 I’m looking for help with AI and machine learning
-- 💬 Ask me about anything you want to know
-- 📫 How to reach me: lijiahao1313@163.com
+- 🌱 I’m currently learning AI and Machine Learning.
+- 🤔 I’m looking for help with Deep Learning and Liunx.
+- 💬 Ask me about anything you want to know.
+- 📫 How to reach me: lijiahao1313@163.com.
 
 - ⚡ Fun fact: Cat, MilkTea, Music, Travel..
 - 💖 Blog: https://garhou.gitee.io/blog/
-
+- 💫 Docs: https://garhou.gitee.io/docs/
 -----------------------------------------
 
 ### Recent activities ✨：
